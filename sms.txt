@@ -1,0 +1,5 @@
+<sms>
+<til>+4790011048</til>
+<melding>dette er en test 🍏</melding>
+</sms>
+
