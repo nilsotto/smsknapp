@@ -12,7 +12,7 @@ infile_path = "/dev/input/event" + (sys.argv[1] if len(sys.argv) > 1 else "0")
 #long int, long int, unsigned short, unsigned short, unsigned int
 FORMAT = 'llHHI'
 EVENT_SIZE = struct.calcsize(FORMAT)
-phone_number="+4790011048"
+phone_number="+4748049558"
 url="https://varsling-tjenester-felles-develop.cluster.dev/varsle/sms"
 smses=[ "Nå tenker noen i Husbanken på deg", 
         "Lurer du på om deploy 2.0 er i prod?",
