@@ -27,7 +27,8 @@ smses=[ "Nå tenker noen i Husbanken på deg",
         "Nå spilles det ATM, hvor er du (Katrine)",
         "Husbanken will never be the same (Trond V)",
         "Jan-Stian Gabrielli. Gabrielli etter det hebraiske Gever som betyr strong man, hero or God. Sjelden har et etternavn kledd mannen bedre. (Trond V)",
-        "Når alle tenker likt er det ingen som tenker (Gro)"
+        "Når alle tenker likt er det ingen som tenker (Gro)",
+        "En bratt lærekurve om SSL/TLS flater ut her (Nils Otto)"
         ] 
 
 #open file in binary mode
