@@ -22,7 +22,8 @@ smses=[ "Nå tenker noen i Husbanken på deg",
         "Da ses vi bare på JULA i Mjøndalen framover … :( (Hilde)",
         "A small step for you Jan-Stian, a giant leap for Husbanken without you! (Erik E)",
         "Daus! Hva laver du? (Frode S)",
-        "Nå skinner sola i Solbergelva – den kommer sikkert snart deg i Mjøndalen også (Antonia)"] 
+        "Nå skinner sola i Solbergelva – den kommer sikkert snart deg i Mjøndalen også (Antonia)",
+        "Nå spilles det ATM, hvor er du (Katrine)"] 
 
 #open file in binary mode
 in_file = open(infile_path, "rb")
