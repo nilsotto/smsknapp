@@ -19,13 +19,16 @@ smses=[ "Nå tenker noen i Husbanken på deg",
         "3d-printeren ser litt trist ut i dag - den savner nok deg",
         "ping - http://husbanken.no",
         "Mjøndalen - Kjempers hjemsted",
+        "Snekkergata 2 returpunkt for EE-avfall",
         "Da ses vi bare på JULA i Mjøndalen framover … :( (Hilde)",
         "A small step for you Jan-Stian, a giant leap for Husbanken without you! (Erik E)",
         "Daus! Hva laver du? (Frode S)",
         "Nå skinner sola i Solbergelva – den kommer sikkert snart deg i Mjøndalen også (Antonia)",
         "Nå spilles det ATM, hvor er du (Katrine)",
         "Husbanken will never be the same (Trond V)",
-        "Jan-Stian Gabrielli. Gabrielli etter det hebraiske Gever som betyr strong man, hero or God. Sjelden har et etternavn kledd mannen bedre. (Trond V)"] 
+        "Jan-Stian Gabrielli. Gabrielli etter det hebraiske Gever som betyr strong man, hero or God. Sjelden har et etternavn kledd mannen bedre. (Trond V)",
+        "Når alle tenker likt er det ingen som tenker (Gro)"
+        ] 
 
 #open file in binary mode
 in_file = open(infile_path, "rb")
