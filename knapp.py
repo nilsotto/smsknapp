@@ -19,7 +19,10 @@ smses=[ "Nå tenker noen i Husbanken på deg",
         "3d-printeren ser litt trist ut i dag - den savner nok deg",
         "ping - http://husbanken.no",
         "Mjøndalen - Kjempers hjemsted",
-        "" ] 
+        "Da ses vi bare på JULA i Mjøndalen framover … :( (Hilde)",
+        "A small step for you Jan-Stian, a giant leap for Husbanken without you! (Erik E)",
+        "Daus! Hva laver du? (Frode S)",
+        "Nå skinner sola i Solbergelva – den kommer sikkert snart deg i Mjøndalen også (Antonia)"] 
 
 #open file in binary mode
 in_file = open(infile_path, "rb")
