@@ -24,7 +24,8 @@ smses=[ "Nå tenker noen i Husbanken på deg",
         "Daus! Hva laver du? (Frode S)",
         "Nå skinner sola i Solbergelva – den kommer sikkert snart deg i Mjøndalen også (Antonia)",
         "Nå spilles det ATM, hvor er du (Katrine)",
-        ""] 
+        "Husbanken will never be the same (Trond V)",
+        "Jan-Stian Gabrielli. Gabrielli etter det hebraiske Gever som betyr strong man, hero or God. Sjelden har et etternavn kledd mannen bedre. (Trond V)"] 
 
 #open file in binary mode
 in_file = open(infile_path, "rb")
