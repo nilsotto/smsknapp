@@ -12,7 +12,8 @@ infile_path = "/dev/input/event" + (sys.argv[1] if len(sys.argv) > 1 else "0")
 #long int, long int, unsigned short, unsigned short, unsigned int
 FORMAT = 'llHHI'
 EVENT_SIZE = struct.calcsize(FORMAT)
-phone_number="+4748049558"
+#phone_number="+4748049558"
+phone_number="+4790011048"
 url="https://varsling-tjenester-felles-develop.cluster.dev/varsle/sms"
 smses=[ "Nå tenker noen i Husbanken på deg", 
         "Lurer du på om deploy 2.0 er i prod?",
@@ -28,8 +29,17 @@ smses=[ "Nå tenker noen i Husbanken på deg",
         "Husbanken will never be the same (Trond V)",
         "Jan-Stian Gabrielli. Gabrielli etter det hebraiske Gever som betyr strong man, hero or God. Sjelden har et etternavn kledd mannen bedre. (Trond V)",
         "Når alle tenker likt er det ingen som tenker (Gro)",
-        "En bratt lærekurve om SSL/TLS flater ut her (Nils Otto)"
-        "Takk for sel-skapet (Tor Christian)"
+        "En bratt lærekurve om SSL/TLS flater ut her (Nils Otto)",
+        "Takk for sel-skapet (Tor Christian)",
+        "The comfort zone is where dreams go to die. (Runar E)",
+        "The future is not something you walk into - it's something you create.(Runar E)",
+        "Tøffe gutter tar ikke backup, men de gråter mye. (Runar E)",
+        "Computers are useless. They can only give you answers (Pablo Picasso)",
+        "One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.",
+        "Technology is a word that describes something that doesn’t work yet. (Douglas Adams)",
+        "Getting information off the Internet is like taking a drink from a fire hydrant.",
+        "We are stuck with technology when what we really want is just stuff that works. (Douglas Adams)",
+        "Computers are like bikinis. They save people a lot of guesswork. (Sam Ewing)"
         ] 
 
 #open file in binary mode
